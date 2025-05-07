@@ -182,7 +182,7 @@ sns.despine()
 
 #### Results
 
-![Top_Products](images\top_products.png)
+![Top_Products](images/top_products.png)
 
 #### Insights
 
